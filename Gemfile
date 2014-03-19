@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
+
 ruby '2.1.1'
+
+# Gemgento
+gem 'gemgento', git: 'git@github.com:mauinewyork/gemgento.git', branch: 'v1'
+
 gem 'rails', '4.0.4'
 gem 'sass-rails', '~> 4.0.2'
 gem 'uglifier', '>= 1.3.0'

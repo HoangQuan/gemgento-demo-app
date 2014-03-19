@@ -1,0 +1,7 @@
+development:
+  magento:
+    url:              dv.l
+    username:         gemgento
+    api_key:          umx8d7TiQcNkcLP
+    encryption:       465c549ef8e6f62cb3aa0dbb74e3dc41
+    debug:            true
