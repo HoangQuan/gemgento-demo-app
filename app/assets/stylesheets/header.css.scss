@@ -15,6 +15,24 @@
       left:0;
       top: 54%;
     }
+
+    #header-right {
+      position: absolute;
+      right: 0;
+      top: 25%;
+
+      #dynamic-links {
+        font-size: 9px;
+
+        li {
+          margin-right: 8px;
+        }
+
+        a {
+          color: #666666
+        }
+      }
+    }
   }
 }
 

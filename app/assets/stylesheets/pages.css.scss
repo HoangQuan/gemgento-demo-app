@@ -4,7 +4,9 @@
 
 // Homepage (index) Styles
 #feature {
-  background-color: #CAE547;
+  background: #cae547 asset-url("feature.jpg") no-repeat;
+  background-size: auto 100%;
+  background-position: center;
   width: 100%;
   height: 100%;
 
