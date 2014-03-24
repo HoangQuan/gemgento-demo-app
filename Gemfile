@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.1.1'
-
-# Gemgento
-gem 'gemgento', git: 'git@github.com:mauinewyork/gemgento.git', branch: 'v1'
+# after http:// below, change to your gemgento.com username/password
+source 'http://phil:test@gems.gemgento.com'
+gem 'gemgento'
 
 gem 'rails', '4.0.4'
 gem 'sass-rails', '~> 4.0.2'
